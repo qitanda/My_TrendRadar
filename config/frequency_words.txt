@@ -262,3 +262,5 @@
 证券
 
 /票房|演员|电视剧|电影/ => 影视
+
+/OpenClaw|OpenCode|Claude Code|Qwen Code/ => ai agent
