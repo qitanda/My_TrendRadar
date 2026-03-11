@@ -264,3 +264,5 @@
 /票房|演员|电视剧|电影/ => 影视
 
 /OpenClaw|OpenCode|Claude Code|Qwen Code|Kimi Code/ => ai agent
+
+Linux Do
