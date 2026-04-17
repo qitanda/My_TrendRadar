@@ -266,3 +266,5 @@
 /OpenClaw|OpenCode|Claude Code|Qwen Code|Kimi Code/ => ai agent
 
 Linux Do
+
+/gpt plus|gpt team|gpt pro|gpt free/ => gpt
